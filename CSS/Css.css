@@ -38,8 +38,8 @@ body{
 
 #projects :hover{
     color: rgb(54, 53, 53);
-    /* -webkit-text-stroke-width: 1.9px ; */
-    /* -webkit-text-stroke-color: rgb(0, 0, 0); */
+    -webkit-text-stroke-width: 1.9px ;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
 }
 
 /* #projects :active{
