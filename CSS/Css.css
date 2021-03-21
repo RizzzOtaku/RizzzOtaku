@@ -19,7 +19,7 @@ body{
 }
 
 #projects{
-    transition: all 0.5s;
+    transition: all 0.2s;
     color: white;
     -webkit-text-stroke-width: 1.3px ;
     -webkit-text-stroke-color: black;
@@ -29,7 +29,7 @@ body{
 }
 
 .project{
-    transition: all 0.5s;
+    transition: all 0.2s;
     text-decoration: none;
     -webkit-text-stroke-width: 1.3px;
     -webkit-text-stroke-color: rgb(0 0 0);
@@ -42,7 +42,7 @@ body{
     
 
 #projects :hover{
-    transition: all 0.5s;
+    transition: all 0.2s;
     color: rgb(54, 53, 53);
     -webkit-text-stroke-width: 1.9px ;
     -webkit-text-stroke-color: rgb(0, 0, 0);
@@ -63,7 +63,7 @@ body{
 } */
 
 .socialmedia img:hover {
-    transition: all 0.5s;
+    transition: all 0.2s;
     -webkit-filter: drop-shadow(1px 1px 0 black)
         drop-shadow(-1px -1px 0 black);
     filter: drop-shadow(1px 1px 0 black) 
@@ -71,7 +71,7 @@ body{
             invert(100%);
 }
 .images{
-    transition: all 0.5s;
+    transition: all 0.2s;
     margin-top: 114px;
     width: 95px;
 }
