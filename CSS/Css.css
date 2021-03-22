@@ -48,22 +48,12 @@ body{
     -webkit-text-stroke-color: rgb(0, 0, 0);
 }
 
-/* #projects :active{
-    color: rgb(142, 141, 143);    
-} */
-
 .socialmedia{
     margin: auto;
     width: 37%;
-    /* box-sizing: border-box; */
 }
 
-/* #discord{
-    margin-left: 157px;
-} */
-
 .socialmedia img:hover {
-    transition: all 0.2s;
     -webkit-filter: drop-shadow(1px 1px 0 black)
         drop-shadow(-1px -1px 0 black);
     filter: drop-shadow(1px 1px 0 black) 
@@ -71,8 +61,7 @@ body{
             invert(100%);
 }
 .images{
-    transition: all 0.2s;
-    margin-top: 114px;
+        margin-top: 114px;
     width: 95px;
 }
 
