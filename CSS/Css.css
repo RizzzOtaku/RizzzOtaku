@@ -49,11 +49,7 @@
 }
 
 .socialmedia img:hover {
-    -webkit-filter: drop-shadow(1px 1px 0 black)
-        drop-shadow(-1px -1px 0 black);
-    filter: drop-shadow(1px 1px 0 black) 
-            drop-shadow(-1px -1px 0 black)
-            invert(100%);
+    filter: invert(100%);
 }
 .images{
     width: 87px;
