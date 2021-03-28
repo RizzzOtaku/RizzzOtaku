@@ -48,6 +48,10 @@
     margin-top: 114px;
 }
 
+.socialmedia a{
+    margin:0px 3px;
+}
+
 .socialmedia img:hover {
     filter: invert(100%);
 }
