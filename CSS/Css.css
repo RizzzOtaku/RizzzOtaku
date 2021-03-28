@@ -63,3 +63,32 @@
     margin-left: 40px;
 }
 
+
+@media (max-width: 490px){
+    .images{
+        width: 59px;
+    }
+
+    #projects{
+        font-size: 34px;
+    }
+
+    .welcome{
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 700px) and (min-width:490px){
+    .images{
+        width: 70px;
+    }
+
+    #projects{
+        font-size: 43px;
+    }
+
+    .welcome{
+        font-size: 50px;
+    }
+}
+
