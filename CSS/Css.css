@@ -49,8 +49,9 @@ body{
 }
 
 .socialmedia{
-    margin: auto;
-    width: 37%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .socialmedia img:hover {
